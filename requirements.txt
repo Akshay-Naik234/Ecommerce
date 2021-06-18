@@ -65,7 +65,7 @@ Django==3.1.2
 django-filter==2.4.0
 django-svg-image-form-field==1.0.0
 django-widget-tweaks==1.4.8
-dlib @ file:///C:/Users/HP/face_recog_dlib_file-master/dlib-19.19.0-cp38-cp38-win_amd64.whl
+
 docutils==0.16
 entrypoints==0.3
 enum34==1.1.6
