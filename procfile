@@ -1,1 +1,3 @@
-web: gunicorn dep:app
+web: gunicorn gettingstarted.wsgi
+web: gunicorn mysite:app
+web: gunicorn mysite:app --preload
