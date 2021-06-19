@@ -25,7 +25,7 @@ SECRET_KEY = '@7lzq8z8%%s26l7+*_#idom+kf9^ta8l00d1!_u7m4bf!&4*jb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['https://sd-lab-project-team-7.herokuapp.com/','127.0.0.1']
 
 
 # Application definition
