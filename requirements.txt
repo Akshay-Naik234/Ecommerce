@@ -1,6 +1,7 @@
 bootstrap4==0.1.0
 certifi==2021.5.30
 checksum==1.0.4
+dj-static==0.0.6
 click==7.1.2
 collection==0.1.6
 Counter==1.0.0
